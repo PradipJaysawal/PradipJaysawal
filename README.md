@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Passionate about coding and problem-solving  <br>📚 Tutor <br>🛠️ Working with SQL Server and databases  <br>🚀 Exploring new technologies and sharing knowledge  <br><br>
+💻 Passionate about coding and problem-solving  <br>🚀 Exploring new technologies and sharing knowledge  <br><br>
 
 
 ## 🌐 Socials:
